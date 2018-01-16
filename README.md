@@ -1,8 +1,11 @@
-All about Sally
-Quick Look
+# All about Sally
+
+
+### Quick Look
+
 ... Recorded video goes here...
 
-Breakdown
+#### Breakdown
 My Apps:
 
 ... Recorded transition to apps goes here...
@@ -12,6 +15,15 @@ My Blog:
 ... Recorded transition to Thesis blog goes here...
 
 Other:
+
+<!-- ```
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
+> npm install
+> npm start
+``` -->
+
+
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
